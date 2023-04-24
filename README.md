@@ -1,2 +1,2 @@
 ﻿# Contact_Manager
-under construction
+This is simple contact manager using create react app
