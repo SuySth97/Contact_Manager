@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+
+.navbar {
+  background-color: #86baf3;
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 5px;
+}
+
+input {
+  border: 0;
+  padding: 12px;
+  margin: 5px;
+  border-radius: 10px;
+  outline: none;
+}
+
+h2 {
+  text-transform: uppercase;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+button {
+  background-color: #66cdaa;
+  color: #fff;
+  border: 0;
+  padding: 10px;
+  margin: 8px;
+  border-radius: 10px;
+  outline: none;
+  cursor: pointer;
+}
+
+.container {
+  background: #ccc;
+  padding: 1rem;
+  margin: 5px;
+  border-radius: 10px;
+}
+
+.contact {
+  background: #eee;
+  border-radius: 10px;
+  margin: 8px;
+  padding: 8px;
+}
+
+.contact_adder {
+  background: #ccc;
+  padding: 1rem;
+  margin: 5px;
+  border-radius: 10px;
+}
